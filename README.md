@@ -54,13 +54,6 @@ Provided by **Edunet Foundation** for the Green AI Internship (2025)
 
 ---
 
-## 📈 Forecast Output Example
-
-![CO2 Emission Forecast](https://github.com/VINAY-TEJA-29/Greenhouse-Gas-Emission-Forecast/assets/example-forecast.png)  
-*Note: Add your own image or remove this line if not used*
-
----
-
 ## 🙋‍♂️ Author
 
 **Polampalli Vinay Teja**  
